@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Accumulation</string>
+
+    <string name="api_base_url" translatable="false">https://ratesapi.io/api/</string>
+
+    <string name="tv_default_rates">Данные курса валют не загружены</string>
+    <string name="tv_rates">Курс валют за %s</string>
+    <string name="tv_default_result">Бюджет не задан</string>
+    <string name="tv_result">Ваш бюджет: %s руб.</string>
+    <string name="til_hint_rub">В рублях</string>
+    <string name="til_hint_usd">В долларах</string>
+    <string name="til_hint_eur">В евро</string>
+
+    <string name="toast_currency_loaded">Курс валют обновлен</string>
+
+    <string name="dialog_error_title">Ошибка</string>
+    <string name="dialog_error_api_message">Не получилось загрузить курс валют. Попробуйте позже</string>
+</resources>
